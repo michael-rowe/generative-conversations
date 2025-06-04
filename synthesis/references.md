@@ -28,6 +28,8 @@ Natali, C., Marconi, L., Dias Duran, L. D., Miglioretti, M., & Cabitza, F. (2025
 
 Price, W. N., Gerke, S., & Cohen, I. G. (2019). Potential Liability for Physicians Using Artificial Intelligence. _JAMA_, _322_(18), 1765. [https://doi.org/10/gf9qbv](https://doi.org/10/gf9qbv)
 
+Rowe, M., Nicholls, D. A., & Shaw, J. (2022). How to replace a physiotherapist: Artificial intelligence and the redistribution of expertise. _Physiotherapy Theory and Practice_, _38_(13), 2275–2283. [https://doi.org/10.1080/09593985.2021.1934924](https://doi.org/10.1080/09593985.2021.1934924)
+
 Sarkar, U., & Bates, D. W. (2024). Using Artificial Intelligence to Improve Primary Care for Patients and Clinicians. _JAMA Internal Medicine_, _184_(4), 343–344. [https://doi.org/10.1001/jamainternmed.2023.7965](https://doi.org/10.1001/jamainternmed.2023.7965)
 
 Si, C., Yang, D., & Hashimoto, T. (2024). _Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers_ (No. arXiv:2409.04109). arXiv. [http://arxiv.org/abs/2409.04109](http://arxiv.org/abs/2409.04109)

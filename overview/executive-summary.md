@@ -6,6 +6,10 @@ coverY: 0
 
 # Executive summary
 
+> Unless physiotherapists are actively engaged in a conversation around AI in clinical practice we run the risk that our clinical decision-making will be subject to machine intelligence, rather than informed by it.
+>
+> Rowe, Nicholls & Shaw (2022)
+
 This discussion document explores the integration of generative artificial intelligence (generative AI) in physiotherapy, addressing its impact on clinical practice, education, and research. It aims to provide physiotherapy professionals, faculty members, researchers, students, and other stakeholders, with a comprehensive overview of the current capabilities, opportunities, and challenges, presented by this rapidly evolving technology. The document emerged out of planning for the 2024 IFOMPT conference and was informed by a series of activities that took place before, during, and after the event.
 
 The document begins by introducing [key concepts of generative AI](../generative-ai-overview.md), emphasising its role as a powerful assistant that can support human capabilities across a range of contexts relevant to physiotherapy practice. It outlines current applications across different areas of the profession, while acknowledging that these applications will likely evolve rapidly. With that in mind, we also try to avoid making any speculative claims about what AI might do in the future, and ensure that all claims linked to model capability are anchored to what is possible today, or at least to something clearly visible on the horizon.
